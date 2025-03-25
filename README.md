@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Mannnoor Kaur Dhingra  
 
-<!--
-**Mannoor-dhingra/Mannoor-dhingra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **AI & Data Science Professional | NLP | Knowledge Graphs**  
 
-Here are some ideas to get you started:
+🔍 **About Me:**  
+- 🎓 Master's in **Data Science** (AI Major) from **University of Erlangen-Nuremberg, Germany** 🇩🇪  
+- 💼 **6+ years** experience in **Data Engineering & AI Development**  
+- 🏭 Specialized in **AI for Manufacturing & Industrial Applications**  
+- 🤖 Passionate about **LLMs, RAG, NLP, and AI-powered automation**  
+- 📈 Experienced with **MLOps, Knowledge Graphs, and Vector Databases**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 **Projects & Work:**  
+🚀 I work on **AI-powered document search, RAG-based knowledge retrieval, and intelligent automation**.  
+
+🌟 **Key Projects:**  
+- **[TechDocs AI](https://github.com/yourusername/TechDocs-AI)** → AI-driven document search & summarization  
+- **[SynGenAI](https://github.com/Mannoor-dhingra/SynGenAI)** → Synthetic data generator  
+- **[NewsBot](https://github.com/Mannoor-dhingra/news_bot)** → RAG based chatbot  
+
+🔧 **Tech Stack:**  
+💻 **Languages:** Python, SQL, Java  
+📊 **AI & ML:** TensorFlow, PyTorch, LangChain  
+📚 **NLP & Search:** LLMs, RAG, Transformers  
+🔗 **Data & DBs:** Neo4j, PostgreSQL, Pinecone, Elasticsearch  
+⚙️ **MLOps & Deployment:** Docker, FastAPI, Hugging Face  
+
+🚀 **Let's Connect!**  
+- 📫 **Email:** mannoordhingra@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/mannoor-kaur-dhingra](https://www.linkedin.com/in/mannoor-kaur-dhingra-096414162/)  
+
+🌟 **Check out my projects and feel free to connect!** 🚀  
