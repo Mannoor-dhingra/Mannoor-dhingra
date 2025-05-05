@@ -13,7 +13,7 @@
 🚀 I work on **AI-powered document search, RAG-based knowledge retrieval, and intelligent automation**.  
 
 🌟 **Key Projects:**  
-- **[TechDocs AI](https://github.com/yourusername/TechDocs-AI)** → AI-driven document search & summarization  
+- **[TechDocGPT](https://github.com/Mannoor-dhingra/TechDocGPT)** → AI-driven document search & summarization  
 - **[SynGenAI](https://github.com/Mannoor-dhingra/SynGenAI)** → Synthetic data generator  
 - **[NewsBot](https://github.com/Mannoor-dhingra/news_bot)** → RAG based chatbot  
 
