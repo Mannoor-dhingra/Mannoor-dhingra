@@ -15,7 +15,8 @@
 🌟 **Key Projects:**  
 - **[TechDocGPT](https://github.com/Mannoor-dhingra/TechDocGPT)** → AI-driven document search & summarization  
 - **[SynGenAI](https://github.com/Mannoor-dhingra/SynGenAI)** → Synthetic data generator  
-- **[NewsBot](https://github.com/Mannoor-dhingra/news_bot)** → RAG based chatbot  
+- **[NewsBot](https://github.com/Mannoor-dhingra/news_bot)** → RAG based chatbot
+- **[PharmaGraphAI](https://github.com/Mannoor-dhingra/PharmaGraphAI)** → Knowledge Graph-Enhanced Drug Interaction Risk Predictor
 
 🔧 **Tech Stack:**  
 💻 **Languages:** Python, SQL, Java  
